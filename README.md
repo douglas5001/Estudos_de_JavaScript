@@ -15,7 +15,7 @@ Fundamentos do JavaScript
 ✅ 5. Laços de repetição
 ➡ Use for, while, do while, e forEach.
 
-✅ 6. Funções
+✅ 6. Funções 
 ➡ Crie funções function minhaFuncao() {} e funções de seta const soma = (a, b) => a + b;.
 
 Intermediário
